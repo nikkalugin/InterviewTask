@@ -19,8 +19,7 @@ Before running the tests, ensure you have the following installed:
 Run the following command to clone the repository:
 
 ```sh
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone InterviewTask
 ```
 
 ### 3️⃣ Install Dependencies
