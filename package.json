@@ -1,0 +1,14 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "This project contains automated tests for the Playlist UI using Playwright. The tests cover search functionality, adding tracks to a playlist, and verifying the total playlist duration.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.17"
+  }
+}
